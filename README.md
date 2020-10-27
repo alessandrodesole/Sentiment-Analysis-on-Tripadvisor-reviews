@@ -5,4 +5,4 @@ For all the details about data exploration, data preprocessing, model selection 
 
 ## Models implemented
 
-In the #models.py has been implemented different classifiers: Decision Tree, Random Forest, Stochastic Gradient Descent (SGD) and Linear Support Vector Machine (SVM). During the training of each model, an hyperparameter search has been performed 
+In the models.py has been implemented different classifiers: Decision Tree, Random Forest, Stochastic Gradient Descent (SGD) and Linear Support Vector Machine (SVM). During the training of each model, an hyperparameter search has been performed 
